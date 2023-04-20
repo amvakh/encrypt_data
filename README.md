@@ -1,5 +1,7 @@
 # encrypt_data
 
+objective: encrypt password from DATABASE of MYSQL Workbench
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
