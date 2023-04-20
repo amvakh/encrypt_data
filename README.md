@@ -1,6 +1,8 @@
 # encrypt_data
 
-objective: encrypt password from DATABASE of MYSQL Workbench
+objective: encrypt password of DATABASE from MYSQL Workbench
+
+-------------------------------------------------------------
 
 # Getting Started with Create React App
 
