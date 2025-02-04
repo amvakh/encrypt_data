@@ -1,6 +1,6 @@
 # encrypt_data
 
-objective: encrypt password of DATABASE from MYSQL Workbench
+objective: encrypt DATABASE from MYSQL Workbench
 
 -------------------------------------------------------------
 
